@@ -1,19 +1,19 @@
 # TABIS
 
-![Login](https://i.hizliresim.com/VDjWYr.png)
+![Login](https://i.imgur.com/yQtDb9q.png)
 
-![Register](https://i.hizliresim.com/LDj531.png)
+![Register](https://i.imgur.com/5UvIzby.png)
 
-![Homepage (for Personel)](https://i.hizliresim.com/LDj53G.png)
+![Homepage (for Personel)](https://i.imgur.com/Ox2AV49.png)
 
-![Entry Details](https://i.hizliresim.com/vP3W46.png)
+![Entry Details](https://i.imgur.com/tHphJdJ.png)
 
-![Entry Details (Map)](https://i.hizliresim.com/PDjJMQ.png)
+![Entry Details (Map)](https://i.imgur.com/k6nTvAa.png)
 
-![Entry State](https://i.hizliresim.com/7Dj3vv.png)
+![Entry State](https://i.imgur.com/fPZkvjc.png)
 
-![Add New Entry (Info)](https://i.hizliresim.com/r1Gz9M.png)
+![Add New Entry (Info)](https://i.imgur.com/EHwyYBh.png)
 
-![Add New Entry (Address)](https://i.hizliresim.com/Z3lodZ.png)
+![Add New Entry (Address)](https://i.imgur.com/Wr0ikfS.png)
 
-![Add New Entry (Image)](https://i.hizliresim.com/r1GzEN.png)
+![Add New Entry (Image)](https://i.imgur.com/YBE3NMD.png)
