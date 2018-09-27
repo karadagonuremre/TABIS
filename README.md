@@ -1,6 +1,6 @@
 # TABIS
 
-![Login](https://i.imgur.com/yQtDb9q.png)
+![Login](https://i.imgur.com/yQtDb9q.png){:height="50%" width="50%"}
 
 ![Register](https://i.imgur.com/5UvIzby.png)
 
