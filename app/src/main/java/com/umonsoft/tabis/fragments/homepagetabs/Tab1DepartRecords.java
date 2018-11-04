@@ -90,7 +90,7 @@ public class Tab1DepartRecords extends Fragment implements SwipeRefreshLayout.On
                                     @Override
                                     public void onNothingSelected(AdapterView<?> parent) {
 
-                                        Log.e("umut","hehe");
+                                        Log.e("log3","hehe");
                                     }
                                 });
                             }

@@ -87,9 +87,6 @@ public class Tab2MyRecords extends Fragment implements SwipeRefreshLayout.OnRefr
             }
         });
 
-
-
-
         return rootView;
 
     }

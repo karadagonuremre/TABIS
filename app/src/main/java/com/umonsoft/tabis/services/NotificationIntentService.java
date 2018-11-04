@@ -45,7 +45,7 @@ public class NotificationIntentService extends IntentService {
     @Override
     protected void onHandleIntent(@Nullable final Intent intent) {
 
-        Log.e("umut","ONHANDLEINTENT");
+        Log.e("log1","ONHANDLEINTENT");
 
         preferencesNotification=getSharedPreferences(getString(R.string.pref_notification), Context.MODE_PRIVATE);
         SharedPreferences preferencesLogin = getSharedPreferences(getString(R.string.loginvalues), Context.MODE_PRIVATE);
@@ -62,7 +62,6 @@ public class NotificationIntentService extends IntentService {
             public void onSuccess(String response) {
 
                 int addingtype = Integer.parseInt(response);
-
 
                 String departcount = "Select count(id),MAX(id) from recordhistory where nextdepart IN (SELECT department_id from userdeparts where user_id =" +
                         " " + user_id + ")  and NOT user_id =  " + user_id + "";

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tabis.iml" filepath="$PROJECT_DIR$/Tabis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabis-master.iml" filepath="$PROJECT_DIR$/Tabis-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
