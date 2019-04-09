@@ -3,11 +3,7 @@
 <img src="https://i.imgur.com/TBNY9gs.png" >
   </p>
 
-  Talas belediyesi ikaz sistemi temelinde kullanıcıların sokakta gördüğü sorunları belediyeye direkt olarak resim ve konumuyla birlikte
-yollayabildiği bir mobil uygulamadır. Personel kendi departmanına gelen sorunun detaylarını görür ve çözüme ulaştırdığında yine uygulama 
-üzerinden kaydı günceller. Kullanıcı ise yine uygulama üzerinden sorunun çözüldüğüne dair açıklamaları ve resimleri görebilmektedir. Temel 
-işlevleri bu şekilde olup geliştirme aşamasında akla gelen farklı fikirlerle de işlevi çoğaltılmıştır (departmanlar arası kayıt gönderme, 
-kayıda yol tarifi alma vb.)
+  Talas Belediyesi İkaz Sistemi (TABIS) temelinde kullanıcıların sokakta gördüğü sorunları belediyeye direkt olarak resim ve konumuyla birlikte yollayabildiği mobil uygulamadır. Personel kendi departmanına gelen sorunun detaylarını görür ve çözüme ulaştırdığında yine uygulama üzerinden kaydı günceller. Kullanıcı ise yine uygulama üzerinden sorunun çözüldüğüne dair açıklamaları ve resimleri görebilmektedir. Temel işlevleri bu şekilde olup, geliştirme aşamasında akla gelen farklı fikirler de dahil edilmiştir.. (departmanlar arası kayıt gönderme, yol tarifi alma vb.)
 
 ## Login
 <img src="https://i.imgur.com/yQtDb9q.png" width="40%" height="40%">
